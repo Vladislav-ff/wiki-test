@@ -6,3 +6,4 @@
 * [standard-addition](standard-addition.md)
 * [Пример вики-страницы](<Пример вики-страницы.md>)
 * [Страница 2](<Страница 2.md>)
+* [Руководство по оформлению Markdown файлов](rukovodstvo-po-oformleniyu-markdown-failov.md)
