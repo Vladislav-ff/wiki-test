@@ -1,10 +1,6 @@
----
-description: >-
-  Код программы
-  (https://github.com/Vladislav-ff/wiki-test/tree/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%B0)
----
-
 # Программа для отправки писем
+
+[Код](https://github.com/Vladislav-ff/wiki-test/tree/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%B0) программы.
 
 ## Описание программы отправки электронной почты с помощью Python
 
