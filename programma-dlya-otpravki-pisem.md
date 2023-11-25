@@ -2,6 +2,17 @@
 
 [Код](https://github.com/Vladislav-ff/wiki-test/tree/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%B0) программы.
 
+## Структура страницы
+
+* [Описание программы отправки электронной почты с помощью Python](programma-dlya-otpravki-pisem.md#opisanie-programmy-otpravki-elektronnoi-pochty-s-pomoshyu-python)
+* [Введение](programma-dlya-otpravki-pisem.md#vvedenie)
+* [Функциональность](programma-dlya-otpravki-pisem.md#funkcionalnost)
+* [Использование](programma-dlya-otpravki-pisem.md#ispolzovanie)
+* [Установка Python](programma-dlya-otpravki-pisem.md#ustanovka-python)
+* [Установка необходимых библиотек](programma-dlya-otpravki-pisem.md#ustanovka-neobkhodimykh-bibliotek)
+* [Пример использования](programma-dlya-otpravki-pisem.md#primer-ispolzovaniya)
+* [Заключение](programma-dlya-otpravki-pisem.md#zaklyuchenie)
+
 ## Описание программы отправки электронной почты с помощью Python
 
 ### Введение
