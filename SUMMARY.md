@@ -8,4 +8,3 @@
 * [Страница 2](<Страница 2.md>)
 * [1](<README (1).md>)
 * [Программа для отправки писем](programma-dlya-otpravki-pisem.md)
-* [Copy of Программа для отправки писем](copy-of-programma-dlya-otpravki-pisem.md)
